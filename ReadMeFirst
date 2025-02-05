@@ -1,0 +1,6 @@
+MainActivity -> καλεί το function που έχει όλο τον κώδικα
+MainScreen -> Navigation των 3 screen
+BorderCanvas -> Έχω ζωγραφίσει to layout του sudoku σε canva
+SudokuScreenSetUp -> Είναι το γενικό layout της οθόνης sudoku μαζί με το canva και τα κουμπιά 
+SolvingSudokuCode -> Η λογική στην επίλυση του sudoku
+scramble -> το δεύτερο παιχνίδι scramble με το layout αλλα και όλη την λογική επίλυσης
